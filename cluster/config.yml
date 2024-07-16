@@ -1,0 +1,8 @@
+location: West Europe
+resource_group: AksIanRG
+cluster:
+  version: "1.28"
+  name: AksIan
+  vm_size: Standard_D2_v2
+  node_count: 3
+
